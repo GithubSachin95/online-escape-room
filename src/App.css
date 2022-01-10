@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.successMsg{
+
+  background-color: bisque;
+  border-radius: 5px;
+  
+}
