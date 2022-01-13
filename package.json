@@ -13,7 +13,7 @@
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^2.0.4",
     "web-vitals": "^2.1.2",
-    "homepage": "http://GithubSachin95.github.io/online-escape-room"
+    "homepage": "https://githubSachin95.github.io/online-escape-room"
   },
   "scripts": {
     "start": "react-scripts start",
